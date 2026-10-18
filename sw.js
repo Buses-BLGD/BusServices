@@ -14,7 +14,6 @@ const STATIC_ASSETS = [
   "./images/hero.png",
   "./style.json",
   "./balangoda.pmtiles",
-  "./sw.js",
   "./lib/maplibre-gl.js",
   "./lib/maplibre-gl.css",
   "./lib/pmtiles.js",
